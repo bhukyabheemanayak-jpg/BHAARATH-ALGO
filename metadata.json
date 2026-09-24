@@ -1,0 +1,6 @@
+{
+  "name": "Bhaarath Algo - Algorithmic Options Trading Platform",
+  "description": "Professional no-coding algorithmic options trading, backtesting engine, multi-leg strategy builder, live simulation, and TradingView alerts bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
